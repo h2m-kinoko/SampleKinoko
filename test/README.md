@@ -1,3 +1,7 @@
 # SampleKinoko
 
 testtest
+
+TESTTEST
+
+きのこのこのこ
