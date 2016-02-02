@@ -1,3 +1,6 @@
 # SampleKinoko
 
 testtest
+
+TESTTEST
+
